@@ -8,7 +8,7 @@ This script is designed to process and correct text in Microsoft Word documents.
 
 The script uses the `win32com.client` library to interact with Microsoft Word, allowing it to open, modify, and save Word documents programmatically.
 
-The code is made to be modular.
+The code is modular by using functions and it also has docstring documentation.
 
 ---
 
